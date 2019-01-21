@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">quizzy_test</string>
+    <string name="click_fruit_name">Click fruit Name</string>
 </resources>
